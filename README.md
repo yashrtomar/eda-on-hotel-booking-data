@@ -1,5 +1,4 @@
 # Hotel Bookings Data Analysis
-## Overview
 
 This project focuses on performing exploratory data analysis (EDA) on hotel bookings data to extract meaningful insights and inform strategic decision-making for optimizing hotel operations and enhancing overall business performance. The dataset includes various variables such as hotel types, booking patterns, customer demographics, revenue sources, and cancellation trends.
 Key Objectives
